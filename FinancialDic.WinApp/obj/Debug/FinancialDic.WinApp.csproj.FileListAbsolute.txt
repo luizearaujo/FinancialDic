@@ -1,0 +1,17 @@
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\FinancialDic.WinApp.exe.config
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\FinancialDic.WinApp.exe
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\FinancialDic.WinApp.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\Bamboo.Prevalence.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\Bamboo.Prevalence.Util.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\FinancialDic.Lib.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\VL2.Prevalence.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\FinancialDic.Lib.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\Bamboo.Prevalence.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\Bamboo.Prevalence.Util.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\bin\Debug\VL2.Prevalence.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.csprojResolveAssemblyReference.cache
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.Form1.resources
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.Properties.Resources.resources
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.csproj.GenerateResource.Cache
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.exe
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.WinApp\obj\Debug\FinancialDic.WinApp.pdb

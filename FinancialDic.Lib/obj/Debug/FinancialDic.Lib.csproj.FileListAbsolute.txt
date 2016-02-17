@@ -1,0 +1,11 @@
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\FinancialDic.Lib.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\FinancialDic.Lib.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\Bamboo.Prevalence.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\Bamboo.Prevalence.Util.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\VL2.Prevalence.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\Bamboo.Prevalence.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\Bamboo.Prevalence.Util.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\bin\Debug\VL2.Prevalence.pdb
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\obj\Debug\FinancialDic.Lib.csprojResolveAssemblyReference.cache
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\obj\Debug\FinancialDic.Lib.dll
+c:\users\luiz.araujo\documents\visual studio 2015\Projects\FinancialDic\FinancialDic.Lib\obj\Debug\FinancialDic.Lib.pdb
